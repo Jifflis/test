@@ -16,5 +16,9 @@ public class MainActivity extends AppCompatActivity {
         //yeah
     }
 
+    public void sample2 (){
+
+    }
+
     //sample 2
 }
